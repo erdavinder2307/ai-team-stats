@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "updated": "2026-10-11T06:58:00+05:30",
+  "updated": "2026-10-11T11:40:00+05:30",
   "since": "2026-09-22",
   "improvementsShipped": 80,
-  "checksRun": 189,
-  "problemsCaught": 166,
+  "checksRun": 196,
+  "problemsCaught": 171,
   "problemsFixed": 26,
   "productsCovered": 11,
   "note": "Counts only. improvementsShipped = pull requests from the AI team's claude/ branches merged by a person; checksRun = AI tester result reports; problemsCaught/Fixed = rows in the AI tester's bug register. reviewsWritten = PR reviews written by the AI reviewer (started 30 Sep 2026).",
-  "reviewsWritten": 151
+  "reviewsWritten": 166
 }
